@@ -1,5 +1,6 @@
 //starter code
 window.onload = () => {
+  /* CODE INSIDE HERE */
 
 
   
